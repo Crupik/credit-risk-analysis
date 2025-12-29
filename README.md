@@ -1,4 +1,4 @@
-# credit-risk-analysis
+# Сredit Risk Analysis
 
 ## Content ##
 1.Project Description
