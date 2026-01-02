@@ -17,4 +17,9 @@ The goal of this project is to assess the probability of default for retail bank
 The results can be used to support credit decision-making.
 
 ## 3.Data ##
-Source: [Kaggle dataset](https://www.kaggle.com/competitions/home-credit-default-risk/data)
+Source: [Kaggle dataset](https://www.kaggle.com/competitions/home-credit-default-risk/data)\
+The dataset contains anonymized real-world data provided by Home Credit, including multiple related tables with client, loan, and credit history information.\
+The target variable indicates whether a client experienced loan default.\
+The data is heterogeneous and requires aggregation and preprocessing before modeling.
+
+
